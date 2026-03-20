@@ -1,0 +1,4 @@
+# Remediation: Manual investigation required
+echo "This vulnerability requires manual investigation and update of the yargs-parser package."
+echo "Please update the yargs-parser package to version 13.1.2, 15.0.1, 18.1.1, or 5.0.1 or higher."
+exit 0
